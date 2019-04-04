@@ -1,3 +1,3 @@
 Simple Recipe app. <br />
-Tutorial practice <br/>
+Front-end
 <h3>Demo</h3> https://react-recipeapp.netlify.com/
