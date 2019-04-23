@@ -110,7 +110,3 @@ class App extends Component {
 export default App;
 
 
-//api key
-// ddebce16785a37546cedd6898a3a04da
-
-// https://www.food2fork.com/api/search?key=ddebce16785a37546cedd6898a3a04da
